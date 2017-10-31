@@ -1,16 +1,20 @@
 {
-  "name": "automated-example",
-  "version": "0.1.0",
-  "private": true,
   "dependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
-    "react-scripts": "1.0.16"
+    "react-scripts": "1.0.16",
+    "react-test-renderer": "^16.0.0"
   },
+  "name": "@automated/example",
   "scripts": {
+    "automated": "automated",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "version": "0.1.0"
 }

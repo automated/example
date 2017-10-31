@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`hello 1`] = `
+<button
+  style={
+    Object {
+      "fontSize": 20,
+    }
+  }
+>
+  test
+</button>
+`;
