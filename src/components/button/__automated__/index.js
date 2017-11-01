@@ -1,6 +1,6 @@
 import BaseComponent from '../';
 
-export const title = 'hello';
+export const title = 'Button';
 
 export const Component = BaseComponent;
 
