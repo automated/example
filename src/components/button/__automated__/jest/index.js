@@ -1,9 +1,5 @@
-import React from 'react';
-import renderer from 'react-test-renderer';
+import runner from '@automated/plugin-jest';
 
-import { Component, title } from '../';
+import * as config from '../';
 
-it(title, () => {
-  const tree = renderer.create(<Component label="test" />).toJSON();
-  expect(tree).toMatchSnapshot();
-});
+runner(config);

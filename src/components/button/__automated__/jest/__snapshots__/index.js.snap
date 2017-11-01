@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`hello 1`] = `
+exports[`hello Default 1`] = `
 <button
   style={
     Object {
@@ -8,6 +8,6 @@ exports[`hello 1`] = `
     }
   }
 >
-  test
+  Tortor Commodo Bibendum Ullamcorper
 </button>
 `;
