@@ -1,20 +1,19 @@
 {
-  "dependencies": {
-    "babel-preset-es2015": "^6.24.1",
-    "babel-preset-react": "^6.24.1",
-    "babel-preset-stage-0": "^6.24.1",
-    "react": "^16.0.0",
-    "react-dom": "^16.0.0",
-    "react-scripts": "1.0.16",
-    "react-test-renderer": "^16.0.0"
+  "author": {
+    "name": "Contributors",
+    "url": "https://github.com/automated-tools/example/graphs/contributors"
   },
+  "bugs": {
+    "url": "https://github.com/automated-tools/automated/issues"
+  },
+  "description": "Example implementation(s) of automated",
+  "homepage": "https://github.com/automated-tools/automated",
+  "license": "Apache-2.0",
+  "main": "README.md",
   "name": "@automated/example",
-  "scripts": {
-    "automated": "automated",
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/automated-tools/automated.git"
   },
-  "version": "0.1.0"
+  "version": "0.0.1"
 }
