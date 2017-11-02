@@ -8,10 +8,10 @@ Install dependencies
 yarn
 ```
 
-Run automator
+Run automated
 
 ```
-yarn automator
+yarn automated
 ```
 
 ---
