@@ -1,18 +1,7 @@
 # Automated ⚙️ Example Project
 
-## Getting started
-
-Install dependencies
-
-```bash
-yarn
-```
-
-Run automated
-
-```
-yarn automated
-```
+- See [API](https://github.com/automated-tools/automated/blob/master/docs/api.md) documentation for `automated` usage details
+- Automated plugins in this repo are listed in [`package.json`](https://github.com/automated-tools/example/blob/master/package.json) *(not yet tho, still in local dev)*
 
 ---
 
