@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Button Default 1`] = `
+exports[`Src: Components: Button Default 1`] = `
 <button
   style={
     Object {
