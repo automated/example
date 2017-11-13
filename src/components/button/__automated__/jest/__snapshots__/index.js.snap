@@ -11,3 +11,15 @@ exports[`Src: Components: Button Default 1`] = `
   Tortor Commodo Bibendum Ullamcorper
 </button>
 `;
+
+exports[`button Default 1`] = `
+<button
+  style={
+    Object {
+      "fontSize": 20,
+    }
+  }
+>
+  Tortor Commodo Bibendum Ullamcorper
+</button>
+`;
