@@ -3,7 +3,11 @@ import React, { Component } from 'react';
 
 export default class Button extends Component {
   static propTypes = {
-    label: PropTypes.string.isRequired,
+    label: PropTypes.string,
+  };
+
+  static defaultProps = {
+    label: 'hello',
   };
 
   render() {

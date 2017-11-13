@@ -1,17 +1,5 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Src: Components: Button Default 1`] = `
-<button
-  style={
-    Object {
-      "fontSize": 20,
-    }
-  }
->
-  Tortor Commodo Bibendum Ullamcorper
-</button>
-`;
-
 exports[`button Default 1`] = `
 <button
   style={
@@ -20,6 +8,6 @@ exports[`button Default 1`] = `
     }
   }
 >
-  Tortor Commodo Bibendum Ullamcorper
+  hello
 </button>
 `;
