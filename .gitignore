@@ -21,4 +21,5 @@ yarn-debug.log*
 yarn-error.log*
 /dist
 
+# FOR AUTOMATED
 */.automated/jest/__index.js
