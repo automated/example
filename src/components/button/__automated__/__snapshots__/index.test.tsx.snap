@@ -1,0 +1,73 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`/src/components/button test-1 jest-snapshot 1`] = `
+<button
+  onClick={[Function]}
+  style={
+    Object {
+      "background": "blue",
+      "border": "none",
+      "borderRadius": 10,
+      "color": "white",
+      "fontSize": 20,
+      "fontWeight": 600,
+      "padding": "20px 30px",
+    }
+  }
+  type="button"
+>
+  Get started!
+</button>
+`;
+
+exports[`/src/components/button test-2 jest-snapshot 1`] = `
+"Snapshot Diff:
+- First value
++ Second value
+
+- <Base
++ <button
+    onClick={[Function onClick]}
+- />
++   style={
++     Object {
++       \\"background\\": \\"blue\\",
++       \\"border\\": \\"none\\",
++       \\"borderRadius\\": 10,
++       \\"color\\": \\"white\\",
++       \\"fontSize\\": 20,
++       \\"fontWeight\\": 600,
++       \\"padding\\": \\"20px 30px\\",
++     }
++   }
++   type=\\"button\\"
++ >
++   Hello automated
++ </button>"
+`;
+
+exports[`/src/components/button test-3 jest-snapshot 1`] = `
+"Snapshot Diff:
+- First value
++ Second value
+
+- <Base
++ <button
+    onClick={[Function onClick]}
+- />
++   style={
++     Object {
++       \\"background\\": \\"green\\",
++       \\"border\\": \\"none\\",
++       \\"borderRadius\\": 10,
++       \\"color\\": \\"white\\",
++       \\"fontSize\\": 20,
++       \\"fontWeight\\": 600,
++       \\"padding\\": \\"20px 30px\\",
++     }
++   }
++   type=\\"button\\"
++ >
++   Get started!
++ </button>"
+`;
