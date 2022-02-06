@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@automated/automated@^0.88.0":
-  version "0.88.0"
-  resolved "https://registry.yarnpkg.com/@automated/automated/-/automated-0.88.0.tgz#65d2a98d06d3bc6fa4e877e383d34f662613a423"
-  integrity sha512-ygM5AqsC8m8/yD0eUxZ7fhM3zWWn3N/ZRyb5cOGljoF0Yw/LmsR2RaiVP10vLlxz6DeFwBz0ChHzsyPqQugnVw==
+"@automated/automated@^0.93.0":
+  version "0.93.0"
+  resolved "https://registry.yarnpkg.com/@automated/automated/-/automated-0.93.0.tgz#fb9669afcd84bbed72de6bd5024fa8dc2194e005"
+  integrity sha512-nUs6Wo+GA/UajmIbogScH/eQO6HHIUv1NoPX6rNalKw41/NDhUlwTggy4m//a5/XoSO6yibBb39ZsJIViRnEEg==
   dependencies:
     wait-on "^6.0.0"
 
@@ -1703,11 +1703,6 @@ use-subscription@1.5.1:
   integrity sha512-Xv2a1P/yReAjAbhylMfFplFKj9GssgTwN7RlcTxBujFQcloStWNDQdc4g4NRWH9xS4i/FDk04vQBptAXoF3VcA==
   dependencies:
     object-assign "^4.1.1"
-
-util-deprecate@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/util-deprecate/-/util-deprecate-1.0.2.tgz#450d4dc9fa70de732762fbd2d4a28981419a0ccf"
-  integrity sha1-RQ1Nyfpw3nMnYvvS1KKJgUGaDM8=
 
 v8-compile-cache@^2.0.3:
   version "2.3.0"
