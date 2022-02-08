@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@automated/automated@^0.94.0":
-  version "0.94.0"
-  resolved "https://registry.yarnpkg.com/@automated/automated/-/automated-0.94.0.tgz#27ad55618c5a4e4cd59527bddaf2a788a33b9579"
-  integrity sha512-L67jzFnFnWGrpmK7EE/eHDa5V7uXyN8vklNBivCBtp/kXxUzfCxfWbQi+yJfzpGpA+X4+f5sFw7C1C1yjsXjqg==
+"@automated/automated@^0.96.0":
+  version "0.96.0"
+  resolved "https://artifactory.bettermg.com/artifactory/api/npm/npm/@automated/automated/-/automated-0.96.0.tgz#e205ee916a76407021ef407b6ce4ab21bb3b202a"
+  integrity sha1-4gXukWp2QHAh70B7bOSrIbs7ICo=
   dependencies:
     wait-on "^6.0.0"
 
